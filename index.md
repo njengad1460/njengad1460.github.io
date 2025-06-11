@@ -5,3 +5,7 @@
 layout: home
 author_profile: true
 ---
+
+I am BSC student taking BS in *computer science*
+-project 1
+-project 2
